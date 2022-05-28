@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-- [Printing] (#printing)
-- [Commenting] (#commenting)
-- [Variables] (#variables)
-- [Ranges] (#ranges)
+- <a href="#printing">Printing</a>
+- <a href="#commenting">Commenting</a>
+- <a href="#variables">Variables</a>
+- <a href="#ranges">Ranges</a>
 - Conditionals
-- [Strings] (#strings)
-- [Numbers and Booleans] Numbers and Booleans
-- [Symbols] (#symbols)
+- <a href="#strings">Strings</a>
+- <a href="#numbers-and-booleans">Numbers and Booleans</a>
+- <a href="#symbols">Symbols</a>
 - Arrays
 - Hashes
 - [Blocks, Procs, Lambdas] Blocks, Procs, Lambdas
