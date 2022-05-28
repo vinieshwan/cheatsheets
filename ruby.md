@@ -12,7 +12,7 @@
 - <a href="#symbols">Symbols</a>
 - Arrays
 - Hashes
-- [Blocks, Procs, Lambdas] Blocks, Procs, Lambdas
+- <a href="#blocks-procs-lambdas">Blocks, Procs, Lambdas</a>
 - Regular expressions
 - Methods
 - Classes
